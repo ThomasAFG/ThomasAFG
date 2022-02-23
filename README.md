@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=thomasafg&label=Profile%20views&color=26a269&style=flat" alt="thomasafg" /> 
 </p>
 
-<p align="left"> 
+<p align="center" style="background-color: coral;"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
